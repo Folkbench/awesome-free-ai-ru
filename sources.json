@@ -1,0 +1,93 @@
+[
+  {
+    "resource_id": "gigachat-freemium",
+    "url": "https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "gigachat-freemium",
+    "url": "https://developers.sber.ru/docs/ru/policies/gigachat-agreement/individuals",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "gigachat-freemium",
+    "url": "https://developers.sber.ru/docs/ru/gigachat/tariffs/commercial",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "gigachat-freemium",
+    "url": "https://developers.sber.ru/docs/ru/gigachat/individuals-quickstart",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "ollama-local",
+    "url": "https://docs.ollama.com/quickstart",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "ollama-local",
+    "url": "https://docs.ollama.com/faq",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "ollama-local",
+    "url": "https://raw.githubusercontent.com/ollama/ollama/main/LICENSE",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "llama-cpp",
+    "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/master/README.md",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "llama-cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "qwen3-8b",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "qwen3-8b",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B/raw/main/LICENSE",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "deepseek-r1-distill-qwen-7b",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  },
+  {
+    "resource_id": "mistral-small-3-1",
+    "url": "https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503",
+    "checked_at": "2026-11-23",
+    "timezone": "Asia/Shanghai",
+    "scope": "Официальная документация, карточка модели или лицензия; не проверка фактической активации."
+  }
+]
