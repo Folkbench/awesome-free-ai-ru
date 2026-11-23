@@ -27,7 +27,7 @@
 
 [Русский сайт Folkbench](https://ru.folkbench.com/) — отдельный продукт; этот справочник не объявляет его официальное открытие. [Заявка на сайт](https://ru.folkbench.com/submit/) — отдельно от редакционных Issue.
 
-[API-каталог и сравнение](https://github.com/Folkbench/relay-api-ru) · [Руководства](https://github.com/Folkbench/awesome-ai-guide-ru).
+Открытый основной репозиторий сайта: [Folkbench/folkbench-ru](https://github.com/Folkbench/folkbench-ru). [API-каталог и сравнение](https://github.com/Folkbench/relay-api-ru) · [Руководства](https://github.com/Folkbench/awesome-ai-guide-ru).
 
 Исправления: [шаблоны Issue](https://github.com/Folkbench/awesome-free-ai-ru/issues/new/choose), [правила](CONTRIBUTING.md). Не отправляйте секреты. `python3 scripts/check.py` проверяет целостность файлов без API-вызовов. Полные условия использования внешних ресурсов имеют приоритет над нашим кратким изложением.
 
